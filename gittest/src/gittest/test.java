@@ -10,5 +10,9 @@ public class test {
 System.out.println("아니 ㅓㅈ저ㅐㅑㅈㅁㄷ사ㅐㅑ");
 		System.out.println("난 블링블링영동!");
 		System.out.println("현서더티워크트리");
+		System.out.println("아니 ㅓㅈ저ㅐㅑㅈㅁㄷ사ㅐㅑ");
+		System.out.println("난 블링블링영동!");
+		System.out.println("난 블링블링영동!");
+		System.out.println("난 블링블링영동!");
 	}
 }
