@@ -9,7 +9,7 @@ public class test {
 
 
 		System.out.println("나 현서!!");
-		
+		System.out.println("나 현서!!");
 
 		System.out.println("난 블링블링영동!");
 
