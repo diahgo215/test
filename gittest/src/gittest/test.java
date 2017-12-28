@@ -10,7 +10,7 @@ public class test {
 
 		System.out.println("나 현서!!");
 		System.out.println("나 현서!!");
-System.out.println("이렇게하는거야");
+		System.out.println("이렇게하는거야");
 		System.out.println("난 블링블링영동!");
 		System.out.println("난 블현서현서현서동!");
 
