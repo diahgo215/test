@@ -7,6 +7,7 @@ public class test {
 		System.out.println("hello");
 		System.out.println("난 재우!!");
 
+
 		System.out.println("나 현서!!");
 		
 
@@ -16,6 +17,7 @@ public class test {
 		System.out.println("난 재우라구해 꽃미남이지!!");
 
 		System.out.println("난 블링블링영동!");
+
 		System.out.println("난 재우라구해 꽃미남이지!!");
 
 		System.out.println("난 블링블링영동!");
