@@ -9,5 +9,9 @@ public class test {
 		System.out.println("난 재우라구해 꽃미남이지!!");
 System.out.println("아니 ㅓㅈ저ㅐㅑㅈㅁㄷ사ㅐㅑ");
 		System.out.println("난 블링블링영동!");
+		System.out.println("아니 ㅓㅈ저ㅐㅑㅈㅁㄷ사ㅐㅑ");
+		System.out.println("난 블링블링영동!");
+		System.out.println("난 블링블링영동!");
+		System.out.println("난 블링블링영동!");
 	}
 }
